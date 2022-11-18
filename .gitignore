@@ -1,2 +1,3 @@
 *.class
 /fizzbuzz
+/java/target/
